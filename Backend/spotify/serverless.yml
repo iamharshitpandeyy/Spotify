@@ -1,0 +1,85 @@
+service: serverless-restapi-assign
+
+frameworkVersion: "3"
+
+provider:
+  name: aws
+  runtime: nodejs14.x
+  region: ap-south-1
+  lambdaHashingVersion: 20201221
+
+functions:
+  createArtist:
+    handler: handler.createArtist
+    events:
+      - http:
+          path: /artist/createartist
+          method: post
+          cors: true
+
+  fetchArtist:
+    handler: handler.fetchArtist
+    events:
+      - http:
+          path: /artist/fetchartist
+          method: get
+          cors: true
+
+  fetchAllArtist:
+    handler: handler.fetchAllArtist
+    events:
+      - http:
+          path: /artist/fetchallartist
+          method: get
+          cors: true
+
+  userLogin:
+    handler: handler.userLogin
+    events:
+      - http:
+          path: /user/userlogin
+          method: post
+          cors: true
+
+  userRegister:
+    handler: handler.userRegister
+    events:
+      - http:
+          path: /user/userregister
+          method: post
+          cors: true
+
+  createSong:
+    handler: handler.createSong
+    events:
+      - http:
+          path: /song/createsong
+          method: post
+          cors: true
+
+  fetchSong:
+    handler: handler.fetchSong
+    events:
+      - http:
+          path: /song/fetchsong
+          method: get
+          cors: true
+
+  ratingSong:
+    handler: handler.ratingSong
+    events:
+      - http:
+          path: /ratingSong/{songid}
+          method: post
+          cors: true
+
+  searchSong:
+    handler: handler.searchSong
+    events:
+      - http:
+          path: /searchSong
+          method: post
+          cors: true
+
+plugins:
+  - serverless-offline
