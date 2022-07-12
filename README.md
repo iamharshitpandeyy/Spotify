@@ -64,8 +64,10 @@ Major frameworks/libraries used in the project.
 
 ### User Login nd Register
 
-![Alt text](./Frontend/Image/delta6.jpg)
+![Alt text](./Frontend/Image/delta3.jpg)
 
 ### All Artist List
 
-![Alt text](./Frontend/Image/delta3.jpg)
+![Alt text](./Frontend/Image/delta4.jpg)
+
+![Alt text](./Frontend/Image/delta5.jpg)
