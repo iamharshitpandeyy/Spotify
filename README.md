@@ -56,17 +56,17 @@ Major frameworks/libraries used in the project.
 
 ### Home screen
 
-![Alt text](./Frontend/Image/delta1.jpg)
+![Alt text](C:\Users\lenovo\Desktop\assignmentSpotify-master\Frontend\Image\delta1.jpg)
 
 ### Create Song
 
-![Alt text](./Frontend/Image/delta2.jpg)
+![Alt text](Frontend\Image\delta2.jpg)
 
 ### User Login nd Register
 
-![Alt text](./Frontend/Image/delta3.jpg)
+![Alt text](C:\Users\lenovo\Desktop\assignmentSpotify-master\Frontend\Image\delta3.png)
 
 ### All Artist List
 
-![Alt text](./Frontend/Image/delta4.jpg)
-![Alt text](./Frontend/Image/delta5.jpg)
+![Alt text](Frontend\Image\delta4.png)
+![Alt text](C:\Users\lenovo\Desktop\assignmentSpotify-master\Frontend\Image\delta5.png)
