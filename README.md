@@ -60,13 +60,13 @@ Major frameworks/libraries used in the project.
 
 ### Create Song
 
-![Alt text](Frontend\delta2.jpg)
+![Alt text](Frontend/delta2.jpg)
 
 ### User Login nd Register
 
-![Alt text](Frontend\delta3.png)
+![Alt text](Frontend/delta3.png)
 
 ### All Artist List
 
-![Alt text](Frontend\delta4.png)
-![Alt text](Frontend\delta5.png)
+![Alt text](Frontend/delta4.png)
+![Alt text](Frontend/delta5.png)
