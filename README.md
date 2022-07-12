@@ -69,5 +69,4 @@ Major frameworks/libraries used in the project.
 ### All Artist List
 
 ![Alt text](./Frontend/Image/delta4.jpg)
-
 ![Alt text](./Frontend/Image/delta5.jpg)
